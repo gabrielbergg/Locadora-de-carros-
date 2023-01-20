@@ -1,4 +1,4 @@
-# Gb aluguel de carros 
+# Bg aluguel de carros 
 
 **Criei um programa para ajudar uma locadora de carros que precisava automatizar o calculo do valor do aluguel dos carros.**
 
